@@ -1,0 +1,139 @@
+body{
+     font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+header{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    height: 450px;
+    background-image: url(donate.jpg);
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+    text-decoration: none;
+
+}
+.overlay{
+    margin-top: 100px;
+}
+
+
+.t-align{
+    text-align: center;
+}
+.para_font_color{
+    color: rgb(147, 140, 140);
+}
+.button{
+    margin-top: 5px;
+    padding: 14px 40px;
+    background-color: rgb(233, 45, 45);
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+}
+.form{
+    border: none;
+    border-bottom: 2px solid rgba(46, 45, 45, 0.315);
+}
+.footer{
+    padding: 30px;
+    background-color: black;
+}
+#footer-h1-sty{
+    font-family: 'Lobster', cursive;
+    color: tomato;
+}
+.footer-text{
+    color: white;
+    text-align: center; 
+    
+}
+#box{
+    border: none;
+    margin-left: 60px;
+    height: 35px;
+    width: 350px;
+}
+#submit{
+    border: none;
+    height: 36px;
+    width: 200px;
+    color: antiquewhite;
+    font-weight: 600;
+    background-color: rgb(224, 57, 57);
+
+
+}
+#boxx{
+    margin-top: 105px;    
+    margin-bottom: 105px;    
+    margin-left: 190px;
+    background-color: rgb(236, 221, 122);
+    padding:60px;
+    height: 55%;
+    width: 55%;
+}
+.icon1{
+    height: 50px;
+    width: 50px;
+}
+.workdi{
+    margin: 30px;
+    padding: 30px;
+    border-radius: 1px;
+    width:300px;
+    height: 240px;
+}
+#blue{
+    
+    background-color: rgb(194, 236, 236);
+}
+#pink{
+    
+    background-color: rgb(243, 212, 238);
+}
+#yello{
+    
+    background-color: rgb(244, 242, 188);
+}
+.amount{
+    background-color: rgb(232, 225, 225);
+    color: rgb(97, 93, 93);
+    font-size: 27px;
+    padding: 2px;
+    margin-left: 10px;
+    border-radius: 4px;
+    height: 89px;
+    width: 96px;
+    cursor: pointer;
+    
+    
+}
+.amount:hover{
+    border: 3px solid rgba(255, 0, 0, 0.497);
+    background-color: rgba(218, 176, 176, 0.719);
+}
+#content{
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+}
+#cont-image{
+    border-radius: 3px;
+    height:400px;
+    width:450px;
+    margin-left: 80px;
+    margin-right: 100px;
+
+    
+
+}
