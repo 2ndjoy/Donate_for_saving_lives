@@ -38,6 +38,8 @@ header{
     color: aliceblue;
     border: none;
     border-radius: 10px;
+    cursor: pointer;
+
 }
 .form{
     border: none;
@@ -69,9 +71,10 @@ header{
     color: antiquewhite;
     font-weight: 600;
     background-color: rgb(224, 57, 57);
-
+    cursor: pointer;
 
 }
+
 #boxx{
     margin-top: 105px;    
     margin-bottom: 105px;    
