@@ -121,10 +121,19 @@ header{
     
     
 }
-.amount:hover{
-    border: 3px solid rgba(255, 0, 0, 0.497);
-    background-color: rgba(218, 176, 176, 0.719);
+#select-200{
+    background-color: rgba(227, 141, 141, 0.377);
+    color: rgb(216, 84, 84);
+    border: 4px solid rgba(255, 0, 0, 0.374);
+    font-size: 27px;
+    padding: 2px;
+    margin-left: 10px;
+    border-radius: 4px;
+    height: 89px;
+    width: 96px;
+
 }
+
 #content{
     display: flex;
     margin-top: 150px;
