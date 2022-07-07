@@ -109,7 +109,7 @@ header{
     background-color: rgb(244, 242, 188);
 }
 .amount{
-    background-color: rgb(232, 225, 225);
+    background-color: rgba(232, 225, 225, 0.377);
     color: rgb(97, 93, 93);
     font-size: 27px;
     padding: 2px;
